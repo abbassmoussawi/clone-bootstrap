@@ -20,4 +20,8 @@ body {
         align-items: center;
         justify-content: space-between;
     }
+    .link-navbar {
+        text-decoration: none;
+        display: block;
+    }
 }
