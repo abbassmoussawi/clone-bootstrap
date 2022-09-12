@@ -121,6 +121,18 @@
         .about-text div {
             padding: 20px;
         }
+        /* contact section */
+        .form {
+            margin-top: 100px;
+            margin-left: 40%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            width: 400px;
+        }
+        inpu[text] {
+            width: 200px;
+        }
     }
     /*mobile phone layout */
     
