@@ -24,4 +24,8 @@ body {
         text-decoration: none;
         display: block;
     }
+    .svg-icon {
+        width: 15rem;
+        margin-bottom: 3rem !important;
+    }
 }
